@@ -1,5 +1,7 @@
 import os
 
+import discord
+
 import asyncio
 import aiohttp
 
